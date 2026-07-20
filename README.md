@@ -1,4 +1,4 @@
-# 510 作業小幫手
+# 作業小幫手
 
 GitHub Pages 前端，資料寫入 Google Apps Script 與 Google 試算表。
 
